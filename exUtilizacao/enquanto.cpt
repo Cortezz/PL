@@ -1,0 +1,11 @@
+   CPT {
+     DECLARACAO
+	int i;
+	int[5] v;
+     TERMINADA
+	i = 0;
+	enquanto (i<5){
+		v[i] = i*2;
+		>> v[i];
+		}
+}

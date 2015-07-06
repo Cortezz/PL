@@ -1,0 +1,12 @@
+   CPT {
+     DECLARACAO
+	int x, i;
+	int[10] v;
+     TERMINADA
+	
+	x = 10;
+	i = 2;
+	x = i+(x>5);
+	para(i=0;(x>5)&&(i<10);i=i+1)
+		v[i] <<;
+}

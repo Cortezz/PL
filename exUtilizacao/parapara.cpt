@@ -1,0 +1,9 @@
+   CPT {
+    DECLARACAO
+	int x,i,z;
+    TERMINADA
+	para (i=0;i<30;i=i+1)
+		para (x=0;x<10;x=x+1)
+			z = x * i;
+
+}	

@@ -1,0 +1,9 @@
+   CPT {
+     DECLARACAO
+	int x,y;
+     TERMINADA
+	y = 5;
+	x = 2;
+	>> x;
+	y = x;
+}

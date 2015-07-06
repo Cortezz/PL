@@ -1,0 +1,15 @@
+   CPT {
+     DECLARACAO
+	int x,y;
+     TERMINADA
+	x = 5;
+	y = 0;
+	
+	enquanto (y!=10){
+		x = x + y/2;
+		se ((x%2)==0) 
+			>> "Número par!";
+		y = y+1;
+	}
+}
+

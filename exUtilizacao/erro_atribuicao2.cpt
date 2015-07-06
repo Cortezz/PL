@@ -1,0 +1,8 @@
+   CPT {
+     DECLARACAO
+	int i;
+	int[10] v;
+     TERMINADA
+
+	i = v[5];
+}

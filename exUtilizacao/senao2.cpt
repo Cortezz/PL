@@ -1,0 +1,10 @@
+   CPT {
+     DECLARACAO
+	int x,i;
+	int[10] v;
+     TERMINADA
+	x = 5;
+	se (x<9) entao
+		v[7] = x*2;
+	senao v[2] =v[x/2];
+}

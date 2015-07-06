@@ -1,0 +1,8 @@
+   CPT {
+     DECLARACAO
+	int x,y;
+     TERMINADA
+	x = 3;
+	se (x<=3)
+		y = x*3;
+} 
